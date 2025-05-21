@@ -23,7 +23,29 @@ An online library web application built with **React**, **Redux**, and **Tailwin
 - **Tailwind CSS** – Utility-first CSS framework.
 - **Vite** *(optional)* – Fast React development server (if used).
 
+
 ---
+
+##  Getting Started
+
+### Prerequisites
+
+- Node.js ≥ 16
+- npm or yarn
+
+### Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/JainAadeesh/-Online-Library-System.git
+cd -Online-Library-System
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
+
 
 
 
