@@ -7,7 +7,7 @@ on:
         required: false
         type: string
       api_url:
-        description: Which quant0 instance to push to. Set automatically when triggered from the quant0 portal.
+        description: Which quant0 instance to push to. Set automatically when triggered from the quant0 portals.
         required: false
         type: string
 permissions:
